@@ -1,0 +1,12 @@
+{
+    "manifest_version":2,
+    "name":"RJ launcher",
+    "description":"Social media launcher",
+    "version":"1.0.0",
+    "icons":{"128":"icon-128.png"},
+    "browser_action":{
+        "default_icon":"icon.png",
+        "default_popup":"popup.html"
+    },
+    "permissions":["activeTab"]
+}
